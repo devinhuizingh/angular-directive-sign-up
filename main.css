@@ -1,0 +1,9 @@
+div.brand-logo {
+	background-image: url('/google.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 300px;
+    height: 300px;
+    float: left
+}
+
