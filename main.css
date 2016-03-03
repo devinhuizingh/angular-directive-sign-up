@@ -1,5 +1,5 @@
 div.brand-logo {
-	background-image: url('/google.png');
+	background-image: url('./google.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 300px;
